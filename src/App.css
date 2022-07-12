@@ -1,0 +1,14 @@
+.navbar {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+.content .logout {
+  margin-top: 300px;
+  padding: 4px;
+  width: 20%;
+  margin: auto;
+  position: relative;
+  left: 40vw;
+}

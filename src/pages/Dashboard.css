@@ -1,0 +1,34 @@
+#logout {
+  text-decoration: none;
+  color: black;
+}
+
+.dashboard {
+  background-color: rgb(245,245,245);
+  height: 100vh;
+}
+
+.navbar {
+  background-color: white !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .logo {
+  position: relative;
+  right: 400%;
+}
+
+.navbar .datetime {
+  color: black;
+  position: relative;
+  /* right: 30px; */
+  background-color: rgb(142, 142, 231);
+
+}
+
+.navbar .pfp {
+  position: relative;
+  left: 300%;
+}
